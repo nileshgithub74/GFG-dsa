@@ -1,0 +1,15 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1?page=1&sortBy=submissions">Missing number in array</a></h2><h3>Difficulty Level : Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Given an array of size&nbsp;<strong style="user-select: auto;">N-1</strong>&nbsp;such that it only contains distinct integers in the range of&nbsp;<strong style="user-select: auto;">1&nbsp;to N</strong>. Find the missing element.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Example 1:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input:
+</strong>N = 5
+A[] = {1,2,3,5}
+<strong style="user-select: auto;">Output: </strong>4</span>
+</pre>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Example 2:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input:
+</strong>N = 10
+A[] = {6,1,2,8,3,4,7,10,5}
+<strong style="user-select: auto;">Output: </strong>9</span></pre>
+<p style="user-select: auto;"><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Your Task :</strong><br style="user-select: auto;">You don't need to read input or print anything.&nbsp;Complete the function&nbsp;<strong style="user-select: auto;">MissingNumber()&nbsp;</strong>that takes array and N as input &nbsp;parameters and returns the value of the missing number.</span></p>
+<p style="user-select: auto;"><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Expected Time Complexity:</strong>&nbsp;O(N)<br style="user-select: auto;"><strong style="user-select: auto;">Expected Auxiliary Space:</strong>&nbsp;O(1)</span></p>
+<p style="user-select: auto;"><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong><br style="user-select: auto;">1 ≤ N ≤ 10<sup style="user-select: auto;">6</sup><br style="user-select: auto;">1 ≤ A[i] ≤ 10<sup style="user-select: auto;">6</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Flipkart</code>&nbsp;<code>Morgan Stanley</code>&nbsp;<code>Accolite</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>D-E-Shaw</code>&nbsp;<code>Ola Cabs</code>&nbsp;<code>Payu</code>&nbsp;<code>Visa</code>&nbsp;<code>Intuit</code>&nbsp;<code>Adobe</code>&nbsp;<code>Cisco</code>&nbsp;<code>Qualcomm</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Searching</code>&nbsp;<code>Bit Magic</code>&nbsp;<code>Data Structures</code>&nbsp;<code>Algorithms</code>&nbsp;
