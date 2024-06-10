@@ -1,0 +1,13 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/palindrome0746/1?page=1&difficulty=School&sortBy=submissions">Palindrome</a></h2><h3>Difficulty Level : School</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Given an integer, check whether it is a palindrome or not.</span></p>
+<p style="user-select: auto;"><span style="font-size: 14pt; user-select: auto;"><strong style="user-select: auto;">Note : Strings which read the same backwards as forwards , eg - MADAM, MOM etc.</strong></span><br style="user-select: auto;"><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Example 1:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>n = 555
+<strong style="user-select: auto;">Output: </strong>Yes</span>
+</pre>
+<p style="user-select: auto;"><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Example 2:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>n = 123
+<strong style="user-select: auto;">Output: </strong>No</span>
+</pre>
+<p style="user-select: auto;">&nbsp;</p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Your Task:</strong><br style="user-select: auto;">You don't need to read or print anything. Your task is to complete the function&nbsp;<strong style="user-select: auto;">is_palindrome()&nbsp;</strong>which takes the number as input parameter and returns "Yes" if it is palindrome otherwise returns "No"(Without quotes).</span><br style="user-select: auto;">&nbsp;</p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Expected Time Complexity:</strong>&nbsp;O(x)<br style="user-select: auto;"><strong style="user-select: auto;">Expected Space Complexity:&nbsp;</strong>O(x)&nbsp;where x is number of digits in n.</span><br style="user-select: auto;">&nbsp;</p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong><br style="user-select: auto;">1 &lt;= n &lt;= 1000</span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Zoho</code>&nbsp;<code>Samsung</code>&nbsp;<code>Oracle</code>&nbsp;<code>Adobe</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>palindrome</code>&nbsp;
