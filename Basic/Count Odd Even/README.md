@@ -1,0 +1,13 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/count-odd-even/1?page=3&difficulty=School,Basic&sortBy=submissions">Count Odd Even</a></h2><h3>Difficulty Level : Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Given an array <strong style="user-select: auto;">A[]&nbsp;</strong>of <strong style="user-select: auto;">N </strong>elements. The task is to return the count of the number of <strong style="user-select: auto;">odd </strong>and <strong style="user-select: auto;">even&nbsp;</strong>elements in the array.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Example:</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input:</strong>
+N = 5
+A[] = 1 2 3 4 5
+<strong style="user-select: auto;">Output:
+</strong>3 2
+<strong style="user-select: auto;">Explanation:
+</strong>There are 3 odd elements (1, 3, 5)
+and 2 even elements (2 and 4).<br style="user-select: auto;"><br style="user-select: auto;"></span></pre>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Your Task:</strong><br style="user-select: auto;">Your task is to complete the function <strong style="user-select: auto;">countOddEven</strong>() which should <strong style="user-select: auto;">return the count of odd and even elements of the array.</strong></span></p>
+<p style="user-select: auto;"><strong style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Expected Time Complexity: O(N)<br style="user-select: auto;"></span></strong><strong style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Expected Space Complexity: O(1)</span></strong></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Constraints:</strong><br style="user-select: auto;">1 &lt;= N &lt;= 10<sup style="user-select: auto;">6</sup><br style="user-select: auto;">1 &lt;= A<sub style="user-select: auto;">i</sub> &lt;= 10<sup style="user-select: auto;">6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Data Structures</code>&nbsp;
